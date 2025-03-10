@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy Mariano Quinteros
+👋 ¡Hola! Soy Mariano Quinteros<br>
 💻 Desarrollador FullStack | Diseñador Gráfico | Edición de Video
 
 🚀 Apasionado por la tecnología, el diseño y la creatividad. Con experiencia en desarrollo FrontEnd y BackEnd, gestión de e-commerce y creación de contenido visual.
