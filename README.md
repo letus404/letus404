@@ -1,21 +1,18 @@
-## Hola, soy Mariano Quinteros 👋
+👋 ¡Hola! Soy Mariano Quinteros
+💻 Desarrollador FullStack | Diseñador Gráfico | Edición de Video
 
-🚀 Apasionado por el desarrollo Frontend y el diseño web.
+🚀 Apasionado por la tecnología, el diseño y la creatividad. Con experiencia en desarrollo FrontEnd y BackEnd, gestión de e-commerce y creación de contenido visual.
 
-📚 Estudiante activo en **Platzi** 🎓 desde el 2021, enfocado en expandir mis habilidades y conocimientos.
+🔥 Habilidades
+Desarrollo Web: HTML, CSS, JavaScript, PHP, Python
+E-commerce: Shopify, creación de landings y optimización de tiendas
+Diseño & Edición: Photoshop, Premiere, UX/UI
+Inteligencia Artificial: ChatGPT y automatización de procesos
 
-🛠️ **Habilidades clave:**
-- 💻 HTML
-- 🎨 CSS
-- 🔧 JavaScript
 
-💼 Busco colaborar con marcas que deseen mejorar su presencia en línea y crear experiencias web excepcionales.
-
-💌 Puedes encontrarme en [mariano.quinterosluszni@gmail.com](mailto:mariano.quinterosluszni@gmail.com).
-
-📷 Conéctame en Instagram: [@letus.music](https://www.instagram.com/letus.music/)
-
-✨ ¡Listo para impulsar tu proyecto y crear juntos experiencias únicas en la web! Ya estoy preparado para iniciar con los primeros trabajos.
+📫 Contáctame
+📩 mariano.quinterosluszni@gmail.com
+🔗 <a href="https://www.linkedin.com/in/mariano-quinteros-b5448194/">LinkedIn</a> | <a href="https://www.instagram.com/letus.music/">Instagram</a>
 
 <!---
 letus404/letus404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
