@@ -3,15 +3,15 @@
 
 🚀 Apasionado por la tecnología, el diseño y la creatividad. Con experiencia en desarrollo FrontEnd y BackEnd, gestión de e-commerce y creación de contenido visual.
 
-🔥 Habilidades
-Desarrollo Web: HTML, CSS, JavaScript, PHP, Python
-E-commerce: Shopify, creación de landings y optimización de tiendas
-Diseño & Edición: Photoshop, Premiere, UX/UI
-Inteligencia Artificial: ChatGPT y automatización de procesos
+🔥 Habilidades<br>
+Desarrollo Web: HTML, CSS, JavaScript, PHP, Python <br>
+E-commerce: Shopify, creación de landings y optimización de tiendas<br>
+Diseño & Edición: Photoshop, Premiere, UX/UI<br>
+Inteligencia Artificial: ChatGPT y automatización de procesos<br>
 
 
-📫 Contáctame
-📩 mariano.quinterosluszni@gmail.com
+📫 Contáctame<br>
+📩 mariano.quinterosluszni@gmail.com<br>
 🔗 <a href="https://www.linkedin.com/in/mariano-quinteros-b5448194/">LinkedIn</a> | <a href="https://www.instagram.com/letus.music/">Instagram</a>
 
 <!---
